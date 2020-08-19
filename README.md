@@ -1,10 +1,8 @@
 # ClipCopy
 
 
-#Copy multiple text/files to clipboard with just one command.
+--Copy multiple text/files to clipboard with just one command.
 
-#Create your custom text to copy it whenever you like with just one word.
+--Create your custom text to copy it whenever you like with just one word.
 
-#Copy any file with ease.
-
-#Till now it is working through command line arguments.
+--Copy any file with ease.
