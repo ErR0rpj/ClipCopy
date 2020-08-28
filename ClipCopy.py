@@ -39,6 +39,10 @@ if(len(sys.argv) == 1):
             PanelFunctions.CopyOption()
             print('')
 
+        elif(option == '3'):
+            PanelFunctions.CopyOption()
+            print('')
+
         elif(option == '4'):
             PanelFunctions.help()
 
